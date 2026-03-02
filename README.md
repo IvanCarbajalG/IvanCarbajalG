@@ -20,8 +20,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IvanCarbajalG&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IvanCarbajalG&theme=vue-dark&hide_border=true&border_radius=6&locale=es&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarbajalG&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
-![[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanCarbajalG)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCarbajalG&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=IvanCarbajalG&icon=2&color=0)](https://visitcount.itsvg.in)
